@@ -38,6 +38,8 @@ Colorization-of-GrayScale-Images-using-GAN/
 └── README.md
 ```
 
+**NOTE:** If the main.ipynb could not be previewed, download the file and open with any compatible app/site e.g. VS Code, Google Colab etc.
+
 ---
 
 ## Dataset
