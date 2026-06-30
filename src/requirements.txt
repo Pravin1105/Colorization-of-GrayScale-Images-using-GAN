@@ -1,0 +1,12 @@
+tensorflow
+gradio
+keras
+pillow
+numpy
+matplotlib
+torch
+torchvision
+tqdm
+openCV-Python
+scikit-learn
+scikit-image
