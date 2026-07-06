@@ -27,7 +27,7 @@ Colorization-of-GrayScale-Images-using-GAN/
 │
 ├── src/
 │   └── main.ipynb                 # Training and experimentation notebook
-|   └── app.py                     # Gradio inference application
+|   └── app.py                     
 │   └── requirements.txt           # Required Python packages
 |
 ├── model/
